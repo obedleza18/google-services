@@ -1,0 +1,20 @@
+{
+  "name": "google-services",
+  "version": "1.0.0",
+  "description": "A Node application for Google Services for development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "services",
+    "sheets"
+  ],
+  "author": "Maximo Leza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0"
+  }
+}
